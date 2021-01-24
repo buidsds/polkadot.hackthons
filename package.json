@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@polkadot/api": "3.3.1"
+  },
+  "scripts": {
+    "1": "index.js",
+    "2": "queries_block.js",
+    "3": "test.js"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
