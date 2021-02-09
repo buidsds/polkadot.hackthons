@@ -1,3 +1,4 @@
+// hello concordium nè
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 
 
